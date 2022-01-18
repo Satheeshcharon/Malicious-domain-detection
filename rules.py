@@ -3,7 +3,7 @@ ________________________________________________________________________________
 
 	Title: DIMA DEV - Phishing Predictions Wireframe
 	Purpose: This file has rules functions to get the dataset ready for ml model
-	Author: DIMA Business Solutions Team - 2019-20
+	Author: DIMA Business Solutions - 2019-20
 	Required Files: 1. abused_words.txt and domains_list.txt
 ___________________________________________________________________________________
 
