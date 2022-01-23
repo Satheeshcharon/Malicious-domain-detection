@@ -3,9 +3,9 @@
 **Author:** DIMA DEVELOPERS (https://dimabusiness.com)<br>	
 **Licence:** MIT<br>	
 **Results Calibration:**
-1. if ouput is 1 ------> PHISHING
-2. if ouput is 0 ------> SUSPICIOUS
-3. if ouput is -1 ------> LEGITIMATE
+1. if ouput is 1 ------> PHISHING.
+2. if ouput is 0 ------> SUSPICIOUS.
+3. if ouput is -1 ------> LEGITIMATE.
 **Total Rules:** 19<br>	
 **Phishing score:** out of 10<br>	
 
