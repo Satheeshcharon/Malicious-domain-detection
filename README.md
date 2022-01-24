@@ -1,4 +1,4 @@
-# Phishing Domain Detection							
+# Malicious Domain Detection							
 **Purpose:** This file has rules functions to detect phishing domain<br>														
 **Author:** DIMA DEVELOPERS (https://dimabusiness.com)<br>	
 **Licence:** MIT<br>	
